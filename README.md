@@ -1,4 +1,3 @@
-Dmitrijs Mihailovs
 # pitl
 git init pitl
 git add README.md
